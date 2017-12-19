@@ -142,4 +142,3 @@ Here's a [link to my video result](./project_video_output.mp4)
 - The pipeline fails where there is a overlap between two cars it detects only on bounding box for the two cars
 - If the car changes lane very quickly then the classifier might not recognize the car
 - I would have used a neural network approack like YOLO ot R-CNN for vehicle detection
-
