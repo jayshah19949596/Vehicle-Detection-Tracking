@@ -75,8 +75,8 @@
 
 
 
-[image07]: ./Images/restrict_search_window.jpg "restrict_search_window"
-[image08]: ./Images/Results.jpg "Results"
+[image07]: ./Images/restrict_search_window.JPG "restrict_search_window"
+[image08]: ./Images/Results.JPG "Results"
 
 #### 1. Describe how (and identify where in your code) you implemented a sliding window search.  How did you decide what scales to search and how much to overlap windows?
  - I restrcited my window search from **y-start co-ordinate at 400** and **y-stop co-ordinate at 656**
