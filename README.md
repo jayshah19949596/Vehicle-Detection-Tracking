@@ -7,12 +7,12 @@
 
 ---
 
-[image01]: ./Images/car_hog.jpg "car_hog"
-[image02]: ./Images/non_car_hog.jpg "non_car_hog"
-[image03]: ./Images/car_spatial.jpg "car_spatial"
-[image04]: ./Images/non_car_spatial.jpg "non_car_spatial"
-[image05]: ./Images/car_color_hist.jpg "car_color_hist"
-[image06]: ./Images/non_car_color_hist.jpg "non_car_color_hist"
+[image01]: ./Images/car_hog.JPG "car_hog"
+[image02]: ./Images/non_car_hog.JPG "non_car_hog"
+[image03]: ./Images/car_spatial.JPG "car_spatial"
+[image04]: ./Images/non_car_spatial.JPG "non_car_spatial"
+[image05]: ./Images/car_color_hist.JPG "car_color_hist"
+[image06]: ./Images/non_car_color_hist.JPG "non_car_color_hist"
 
 
 #### 1. Explain how (and identify where in your code) you extracted HOG features from the training images.
@@ -95,8 +95,8 @@
    ### Video Implementation
 ----
 
-[image09]: ./Images/Results.jpg "Results"
-[image10]: ./Images/heatmap.jpg "heatmap"
+[image09]: ./Images/Results.JPG "Results"
+[image10]: ./Images/heatmap.JPG "heatmap"
 [image11]: ./Images/after_thresholding.JPG "after_thresholding"
 [image12]: ./Images/label_box.JPG "label_box"
 [image13]: ./Images/final_result.JPG "label_box"
